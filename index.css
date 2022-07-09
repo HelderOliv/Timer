@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(161, 155, 136, 0.637);
+}
+
+div{
+    text-align: center;
+    color: rgb(253, 253, 253);
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    color: rgb(207, 172, 172);
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.cm-btn{
+    background-color: rgb(77, 0, 128);
+}
+
+
+.par-btn{
+    background-color: rgb(5, 27, 85);
+}
+
+.pare-btn{
+        background-color: rgb(76, 141, 184);
+}
